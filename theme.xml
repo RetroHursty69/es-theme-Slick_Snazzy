@@ -36,7 +36,7 @@ Carousel wheel and main menu background
       <text name="systemInfo">     
          <pos>0.35 0.92</pos>
          <backgroundColor>00000000</backgroundColor>
-         <color>ffffff</color>
+         <color>000000</color>
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
 	     <fontSize>0.03</fontSize>
          <zIndex>45</zIndex>	     
@@ -64,8 +64,8 @@ On Screen help
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
          <fontSize>0.03</fontSize>     
          <pos>0.2 0.948</pos>      
-         <textColor>ffffff</textColor>
-         <iconColor>ffffff</iconColor>
+         <textColor>000000</textColor>
+         <iconColor>000000</iconColor>
       </helpsystem>
    </view>     
    
